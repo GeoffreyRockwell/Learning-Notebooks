@@ -1,0 +1,140 @@
+philosophi.ca : Home Page 
+<!--
+  ul, ol, pre, dl, p { margin-top:0px; margin-bottom:0px; }
+  code.escaped { white-space: nowrap; }
+  .vspace { margin-top:1.33em; }
+  .indent { margin-left:40px; }
+  .outdent { margin-left:40px; text-indent:-40px; }
+  a.createlinktext { text-decoration:none; border-bottom:1px dotted gray; }
+  a.createlink { text-decoration:none; position:relative; top:-0.5em;
+    font-weight:bold; font-size:smaller; border-bottom:none; }
+  img { border:0px; }
+  .editconflict { color:green; 
+  font-style:italic; margin-top:1.33em; margin-bottom:1.33em; }
+  table.markup { border:2px dotted #ccf; width:90%; }
+  td.markup1, td.markup2 { padding-left:10px; padding-right:10px; }
+  table.vert td.markup1 { border-bottom:1px solid #ccf; }
+  table.horiz td.markup1 { width:23em; border-right:1px solid #ccf; }
+  table.markup caption { text-align:left; }
+  div.faq p, div.faq pre { margin-left:2em; }
+  div.faq p.question { margin:1em 0 0.75em 0; font-weight:bold; }
+  div.faqtoc div.faq * { display:none; }
+  div.faqtoc div.faq p.question 
+    { display:block; font-weight:normal; margin:0.5em 0 0.5em 20px; line-height:normal; }
+  div.faqtoc div.faq p.question * { display:inline; }
+    .frame 
+      { border:1px solid #cccccc; padding:4px; background-color:#f9f9f9; }
+    .lfloat { float:left; margin-right:0.5em; }
+    .rfloat { float:right; margin-left:0.5em; }
+a.varlink { text-decoration:none; }
+--> 
+philosophi.ca
+ View
+ Edit
+ History
+ Print
+Main »
+Home Page
+Welcome to philosophi.ca a wiki for my ongoing work.
+Conference Reports
+October 2016 Access 2016 is my report on the "Access 2016", a conference at the University of New Brunswick.
+September 2016 Instant History is my report on the "Instant History 2016", a conference at Loyola Chicago.
+August 2016 Replaying Japan 2016 is my report on the "Replaying Japan 2016"
+July 2016 Culture and Technology is my report on the "Culture & Technology" - The European Summer University in Digital Humanities.
+July 2016 DH 2016 is my report on the Digital Humanities 2016 conference in Krakow.
+May/June 2016 CSDH-CGSA 2016 is my report on the CSDH/SCHN 2016 followed by CGSA 2016.
+March 2016 Verona 2015 is my report on the Final Conference Del Laboratorio Di Informatica Umanistica help in Verona.
+November 2015 ReFig 2015 is my report on the Re-Figuring Innovation in Games workshop in Toronto.
+October 2015 Digital Humanities Concepts 2015 is my report on the DH-Concepts conference at Darmstadt.
+October 2015 Text Mining the Novel 2015 is a collection of notes from the novelTM meeting in Montreal.
+August 2015 Digital Pedagogy Institute is my report DP Institute 2015 in Toronto.
+June - July 2015 DH 2015 is my report Digital  2015 in Sydney.
+May - June 2015 Congress 2015 is my report CSDH/SCHN and CGSA 2015 in Ottawa.
+May 2015 Replaying Japan 2015 is my report on the 3rd International Japanese Game Studies Conference.
+April 2015 Éditorialisation et Nouvelles Formes de Publication is my report on a symposium organized at the U. de Montréal.
+April 2015 Northwestern Computational Research Day is my report on a symposium organized by the Northwestern University Information Technology unit
+March 2015 Science 2.0 is my report on the conference organized by the Leibniz Information Centre for Economics and others
+February 2015 Press Start is my report on the UBC conference on Japanese video games
+September 2014 Advances in Visual Methods for Linguistics is my report on the AVML Conference in Tuebingen.
+September 2014 Experimental Interfaces 2014 is my report on the INKE Conference at the Illinois Institute for Design, Chicago.
+August 2014 Replaying Japan 2014 is my report on the 2nd International Japan Game Studies Conference at the University of Alberta.
+August 2014 Exploiting Text is my report on a workshop at Waterloo in honour of Frank Tompa.
+July 2014 Dagstuhl on Computer Humanities Digital Science is my report on a retreat.
+July 2014 DH 2014 is my report on DH 2014 at Lausanne, Switzerland.
+June 2014 CHCI 2014 is my report on the CHCI 2014 conference at the Chinese University of Hong Kong.
+May 2014 CSDH-SCHN 2014 is my report on the CSDH-SCHN 2014 conference at Brock University.
+May 2014 GRAND 2014 is my report on the GRAND 2014 conference in Ottawa.
+May 2014 ACFAS 2014 is my report on this one day session on "Repenser le numérique au 21e siècle" that was part of the larger ACFAS Conference.
+April 2014 International Ethics Roundtable 2014: Information Ethics and Global Citizenship is my report on this conference in Edmonton.
+April 2014 1st Inaugural Texas Digital Humanities Conference is my report on this conference in Houston.
+February 2014 Building Partnerships to Transform Scholarly Publishing is my report on the INKE gathering in Whistler.
+January 2014 Digital Infrastructure Summit 2014 is my report on the digital research infrastructure summit organized by the DI Leadership Council.
+December 2013 Grad Student Mini-Conference on the Digital Humanities is my report on a small conference at McGill.
+September 2013 Digital Environmental Humanities Network is my report on a workshop at McGill.
+July 2013 Digital Humanities 2013 is my conference report on the dh2013 conference.
+July 2013 Social, Digital, Scholarly Editing is my conference report on the SDSE conference.
+June 2013 Canadian Society for Digital Humanities and Canadian Game Studies Association is my conference report on the CSDH/SCHN and CGSA meetings at Congress.
+May 2013 Around the World Symposium on Digital Culture is my conference report on the http://aroundtheworld.ualberta.ca internet event.
+May 2013 Japanese Game Studies 2013 is my conference report on the International Conference on Japan Game Studies 2013 conference in Kyoto.
+May 2013 Canada 3.0 and GRAND 2013 is a report on the overlapping Canada 3.0 conference and GRAND 2013 conference.
+April 2013 DCA 2013 are links to a report and slides on the Digital Classics Association meeting.
+January 2013 MLA 2013 are my notes about some events I was part of at the MLA in 2013.
+July 2012 DH 2012 is the Digital Humanities conference in Hamburg.
+June 2012 CUCCIO 2012 Canadian University Council of Chief Information Officers.
+May 2012 SEMI 2012 Society for Digital Humanities 2012.
+May 2012 GRAND 2012 The third GRAND conference.
+April 2012 Digitization Day 2012 Our second annual Digitization Day
+November 2011 Tokyo DH Symposium 2011 Symposium on The Establishment of a Knowledge Infrastructure for the Next Generation and the Mission of Digital Humanities
+November 2011 DH-JAC 2011 The 2nd International Symposium on Digital Humanities for Japanese Arts and Cultures in Kyoto, Japan.
+November 2011 INKE: Research Foundations for Understanding Books and Reading in a Digital Age: Text and Beyond Birds of a Feather conference for INKE in Kyoto, Japan.
+October 2011 Culture and Computing 2011 Conference report on Culture and Computing 2011 conference in Kyoto, Japan.
+July 2011 From Metadata to Linked Data Workshop notes on the workshop held at Trinity College, Dublin.
+June 2011 Digging Into Data Challenge 2011 Conference notes on the Digging Into Data conference in Washington.
+May/June 2011 SDH-SEMI 2011 Conference notes on the SDH/SEMI 2011 conference at Congress.
+May 2011 GRAND 2011 Conference Conference notes about the GRAND network conference.
+March 2011 DHO: A Vision of Digital Humanities in Ireland Where do we go from here? A conference at the Royal Irish Academy organized by the Digital Humanities Observatory
+March 2011 HuCon 2011 at the University of Alberta
+December 2010 Digitization Day at the University of Alberta
+November 2010 Montréal International Game Summit? in Montreal
+July 2010 centerNet 2010 at King's College, London.
+Older Conference Reports I have moved conference reports for older events into this page.
+Short Essays in Progress
+A collection of short essays. Some are drafts and some are just reflections.
+Responding to Surfdom: A response to the Matthew Reisz THE article Surfdom
+Inclusion in the Digital Humanities: A reflection on perceptions of inclusion in the digital humanities.
+Institutions in the Digital Humanities: A short reflection on the capacity of institutions to scale to support digital humanities across Canada.
+"His Rock is His Thing: Playing with the Myth of Sisyphus, One Interactive Button, and the Flicker of the Baroque" is an essay on Sisyphus and Play in the neonBaroque Age.
+What is Infrastructure? is an essay on models for what infrastructure is and how it applies to humanities computing.
+Computing with the Infrastructure at Hand is an idea about what we could do with nothing and why we need to think that way.
+The Scale of Silos is an incomplete reflection on the meme that we have a problem of silos. 
+The extraordinary effectiveness of words: A draft of an essay on how words work so well in English for interpretative tools.
+Theoretical Issues in Humanities Computing: A collection of theoretical issues emerging from a course on the subject. 
+Draft Documents
+Big Data Ethics Readings is a list of documents, media stories, and links around big data and ethics. 
+Japanese Game Culture (Not Maintained) is a curated collection of links to resources for the study of Japanese game culture and game studies. It is in the very early stages of development.
+MLA Digital Work is a project I am involved in to develop materials to help with the evaluation of digital work in the humanities.
+The Academic Capacity of the Digital Humanities in Canada is a draft report for the Society of Digital Humanities.
+A Creative Culture is an outline of an idea about the importance of creativity and imagination across human endeavors.
+Computers and Education is an outline of an essay about the uses of computers in higher education.
+A CenterNet Portal is a discussion document put together on the need for a humanities portal. This document is a summary of a discussion held online that I coordinated. It was in preparation for a panel in Oulu at DH 2008.
+CenterNet Internships is a discussion document on possible internships for centerNet.
+Voyant Experiments
+Other Documents
+Introduction to Voyant is a workshop outline for introducing folk to Voyant.
+Research Assistant Guide is a document to help those working with me as a Research Assistant
+Writing Abstracts in the Digital Humanities is a short guide to writing conference proposals in the digital humanities
+Quick Guide to Working in Teams is a short guide to working in teams and how to deal with problems (Note: this is in progress)
+To Do for Wiki is a page about this wiki and what I am working on.
+ Navigate
+HomePage
+ PmWiki
+Basic Editing
+WikiSandbox
+Documentation Index
+PmWiki FAQ
+PmWikiPhilosophy
+Release Notes
+ChangeLog
+ edit SideBar
+Page last modified on October 06, 2016, at 06:21 AM
+   - Powered by PmWiki

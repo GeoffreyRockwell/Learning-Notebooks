@@ -1,0 +1,5 @@
+Label,Date,URL,File,Type,Error Msg,Notes
+My Wiki,20161031,http://philosophi.ca,phil.txt,wiki,,
+Theoreti.ca,20161031,http://theoreti.ca,theo.txt,blog,,
+My CV,20161031,http://www.geoffreyrockwell.com/cv.html,grcv.txt,cv,,
+The Truth,20161031,http://adlkfjaiejfwoeirf.com,,error,"urlopen error [Errno 8] nodename nor servname provided, or not known",

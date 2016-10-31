@@ -1,0 +1,306 @@
+Theoreti.ca  
+Theoreti.ca
+Research notes taken on subjects around multimedia, electronic texts, and computer games.
+My Digital Humanities
+October 13th, 2016 
+The folks at #dariah Teach have put together a first of a series of videos on My Digital Humanities. Despite appearing in it, the video seems very nicely produced and there is a nice mix of people. Stéfan Sinclair and I were interviewed together, something that isn’t clear in the first part, but will presumably become clear later.
+Posted in Conference, Humanities Computing, Streaming Media |    Comments Off
+FBI Game: What is Violent Extremism?
+October 12th, 2016 
+From Slashdot a story about an FBI game/interactive that is online and which aims at Countering Violent Extremism | What is Violent Extremism?. The subtitle is “Don’t Be A Puppet” and the game is part of a collection of interactive materials that try to teach about extremism in general and encourage some critical distance from the extremism. The game has you as a sheep avoiding pitfalls.
+ Read the rest of this entry »
+Posted in Computer Games, Computers and Education, Interactives, Surveillance |    Comments Off
+Geofeedia ‘allowed police to track protesters’
+October 12th, 2016 
+From the BBC a story about US start-up Geofeedia ‘allowed police to track protesters’. Geofeedia is apparently using social media data from Twitter, Facebook and Instagram to monitor activists and protesters for law enforcement. Access to these social media was changed once the ACLU reported on the surveillance product. The ACLU discovered the agreements with Geofeedia when they requested public records of California law enforcement agencies. Geofeedia was boasting to law enforcement about their access. The ACLU has released some of the documents of interest including a PDF of a Geofeedia Product Update email discussing “sentiment” analytics (May 18, 2016).
+Frome the Geofeedia web site I was surprised to see that they are offering solutions for education too.
+Posted in Computers and Education, Media and News, Social Networking, Surveillance, Text Analysis, Visualization |    Comments Off
+Access 2016
+October 8th, 2016 
+Yesterday I gave a talk at Access 2016. This conference brings together archivists and librarians interested in library technology. I was honoured to give the Dave Binkley Memorial Lecture at the end of the conference. My conference notes are here. My talk was about the ethics of digitization, or more generally datafication.
+Posted in Conference, Digital Archives, Ethics of Data Science, Markup and Text Representation |    Comments Off
+Mastaba Snoopy
+October 5th, 2016 
+From my students I heard about the game Mastaba Snoopy created in Twee and TiddlyWiki and being taught in another Humanities Computing course (our students are vectors of influence.) Here is a review where you can download the single HTML page that is the bizarre text adventure, Mastaba Snoopy is a Cronenbergian nightmare vision of childhood. The story takes place14,000 years in the future when a mutable alien has destroyed us and then reinvented itself following a collection of Peanuts comics. Play it.
+Posted in Computer Games, Hypertext Fiction, Literature |    Comments Off
+Common Errors in English Usage
+October 5th, 2016 
+An article about authorship attribution led me to this nice site on Common Errors in English Usage. The site is for a book with that title, but the author Paul Brians has organized all the errors into a hypertext here. For example, here is the entry on why you shouldn’t use enjoy to.
+What does this have to do with authorship attribution? In a paper on Authorship Identification on the Large Scale the authors try using common errors as feature to discriminate potential authors.
+Posted in Humanities Computing, Literature, Programming, Stylistics, Text Analysis |    Comments Off
+Instant History conference
+September 28th, 2016 
+This weekend I gave a talk at a lovely one day conference on Instant History, The Postwar Digital Humanities and Their Legacies. My conference notes are here. The conference was organized by Paul Eggert, among others. Steve Jones, Ted Underwood and Laura Mandell also talked.
+I gave the first talk on “Tremendous Labour: Busa’s Methods” – a paper coming from the work Stéfan Sinclair and I are doing. I talked about the reconstruction of Busa’s Index project. I claimed that Busa and Tasman made two crucial innovations. The first was figuring out how to represent data on punched cards so that it could be processed (the data structures). The second was figuring out how to use the punched card machines at hand to tokenize unstructured text. I walked through what we know about their actual methods and talked about our attempts to replicate them:
+Simple Punched Card Emulator
+Busa Operations
+I was lucky to have two great respondents (Kyle Roberts and Schlomo Argamon) who both pointed out important contextual issues to consider, as in:
+We need to pay attention to the Jesuit and spiritual dimensions of Busa’s work.
+We need to think about the dialectic of those critical of computing and those optimistic about it.
+Posted in Conference, History of Computing and Multimedia, Humanities Computing, Markup and Text Representation, Programming |    Comments Off
+CWRC/CSEC: The Canadian Writing Research Collaboratory
+September 22nd, 2016 
+The Canadian Writing Research Collaboratory (CWRC) today launched its Collaboratory. The Collaboratory is a distributed editing environment that allows projects to edit scholarly electronic texts (using CWRC Writer), manage editorial workflows, and publish collections. There are also links to other tools like CWRC Catalogue and Voyant (that I am involved in.) There is an impressive set of projects already featured in CWRC, but it is open to new projects and designed to help them.
+Susan Brown deserves a lot of credit for imagining this, writing the CFI (and other) proposals, leading the development and now managing the release. I hope it gets used as it is a fabulous layer of infrastructure designed by scholars for scholars.
+One important component in CWRC is CWRC-Writer, an in-browser XML editor that can be hooked into content management systems like the CWRC back-end. It allows for stand-off markup and connects to entity databases for tagging entities in standardized ways.
+Posted in Conference, Humanities Computing, Interface Design and Usability, Internet Culture and Technology, Literature, Markup and Text Representation, Text Analysis |    Comments Off
+Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’ – The New York Times
+September 14th, 2016 
+Elizabeth Magie
+I had read somewhere that Monopoly had originally been developed to teach the evils of monopolies, but hadn’t realized how interesting the story of the creation of Monopoly was. The New York Times tells the story in, Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’. This excerpted from a book titled, The Monopolists: Obsession, Fury, and the Scandal Behind the World’s Favorite Board Game. The article tells the story of Elizabeth Magie who developed a game called the Landlord’s Game which had two sets of rules to teach about the alternatives to monopoly capitalism. You play the game with a rule set where the monopolists get richer and then with a rule set where wealth is distributed more fairly. Alas, when Darrow adapted the game and sold it to Parker Brothers he left out the progressive side.
+It strikes me as an interesting example where a game designed for a serious purpose gets adapted to be more fun and in the process loses its progressive purpose. A change in the rules and you don’t have a game that teaches.
+Posted in Computer Games, History of Computing and Multimedia |    Comments Off
+New mobile app issues verbal safety warnings to Edmonton drivers
+September 14th, 2016 
+Screen Shot of SmartTravel App
+Edmonton has released a new mobile app called SmartTravel. The new mobile app issues verbal safety warnings to Edmonton drivers. You can get live warnings as you drive or before. Interesting idea.
+Posted in Locative, Media and News, Mobile Computing |    Comments Off
+« Older Entries
+Search for:
+Archives 
+Select Month
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ December 2014 
+ November 2014 
+ October 2014 
+ September 2014 
+ August 2014 
+ July 2014 
+ June 2014 
+ May 2014 
+ April 2014 
+ March 2014 
+ February 2014 
+ January 2014 
+ December 2013 
+ November 2013 
+ October 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ June 2013 
+ May 2013 
+ April 2013 
+ March 2013 
+ February 2013 
+ January 2013 
+ December 2012 
+ November 2012 
+ July 2012 
+ June 2012 
+ May 2012 
+ April 2012 
+ March 2012 
+ February 2012 
+ January 2012 
+ December 2011 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ June 2011 
+ May 2011 
+ April 2011 
+ March 2011 
+ February 2011 
+ January 2011 
+ December 2010 
+ November 2010 
+ October 2010 
+ September 2010 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ January 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ September 2009 
+ August 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ March 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ October 2008 
+ September 2008 
+ August 2008 
+ July 2008 
+ June 2008 
+ May 2008 
+ April 2008 
+ March 2008 
+ February 2008 
+ January 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ September 2007 
+ August 2007 
+ July 2007 
+ June 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ February 2007 
+ January 2007 
+ December 2006 
+ November 2006 
+ October 2006 
+ September 2006 
+ August 2006 
+ July 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ February 2006 
+ January 2006 
+ December 2005 
+ November 2005 
+ October 2005 
+ September 2005 
+ August 2005 
+ July 2005 
+ June 2005 
+ May 2005 
+ April 2005 
+ March 2005 
+ February 2005 
+ January 2005 
+ December 2004 
+ November 2004 
+ October 2004 
+ September 2004 
+ August 2004 
+ July 2004 
+ June 2004 
+ May 2004 
+ April 2004 
+ March 2004 
+ February 2004 
+ January 2004 
+ December 2003 
+ November 2003 
+ October 2003 
+ September 2003 
+ August 2003 
+ July 2003 
+ June 2003 
+Categories
+Select Category
+Big Data
+Blogroll
+Blogs and Blogging Culture
+Book Arts
+Computer Games
+Computers and Education
+Conference
+Crowdsourcing
+Digital and Interactive Art
+Digital Archives
+Education and Administration
+Ethics of Data Science
+Fabrication
+Foundations of Computing
+High Performance Computing
+History of Computing and Multimedia
+Humanities Computing
+Hypertext Fiction
+Interactives
+Interface Design and Usability
+Internet Culture and Technology
+Japan
+Literature
+Locative
+Markup and Text Representation
+Media and News
+Methods
+Mobile Computing
+mobile post
+Multimedia Theory
+Online Publishing
+People
+Philosophy of Computing
+Photographs
+Playful or Cool
+Programming
+Project Management
+Science Fiction
+Semantic Web Technologies
+Social Innovation
+Social Networking
+Spam
+Streaming Media
+Stylistics
+Supercomputing
+Surveillance
+Text Analysis
+Text Technology and TAPoR
+Uncategorized
+Visualization
+Words in the Wild
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://theoreti.ca/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+Blogroll
+Data Mining
+Digital Ethnography
+Digital Humanities International
+Grand Text Auto
+Infolet
+jill/text
+Matt Kirschenbaum
+Melissa Terras
+Michael Geist
+Shawn Day’s Randomosity
+Stéfan Sinclair online
+Stephen Ramsay's Blog
+My Sites
+Flickr Photo Stream
+Geoffrey Rockwell
+TAPoR Portal
+Meta 
+Log in
+Entries RSS
+Comments RSS
+WordPress.org 
+	var broaDHcast = new broaDHcast.Widget();
+	broaDHcast.render("fc0031af-72d7-4a74-a377-7691be39354f"); 				
+		Theoreti.ca is powered by WordPress with White as Milk designed by Azeem Azeez. Entries (RSS) and Comments (RSS).
